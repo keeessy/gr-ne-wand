@@ -17,5 +17,3 @@ Einfluss von **greener** Wand
 ![Faktorenraum](ReadMe_grünewand_files/figure-markdown_strict/Faktorenraum_drawio.png)
 
 
-
-

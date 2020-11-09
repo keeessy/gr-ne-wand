@@ -1,5 +1,4 @@
 # gr-ne-wand
-
 ## Teammitglieder 
 * Kerstin Schygulla
 * Lea Pohlmann
